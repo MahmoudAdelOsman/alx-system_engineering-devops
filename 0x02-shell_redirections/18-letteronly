@@ -1,0 +1,2 @@
+#!/bin/bash
+gerp ^ [[:alpha:]] /etc/ssh/sshd_config
